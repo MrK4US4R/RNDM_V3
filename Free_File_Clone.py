@@ -1,5 +1,6 @@
-# Encoded By : MAHADI HASAN AFRIDI
-# Encryption : Py3 Marshal
+# Encoded By  : Mr.KAUSAR
+# GitHub      : MrK4US4R
+# Encryption  : Py3 Marshal
 # Py3 Version : 3.10.4
 
 import marshal
