@@ -6,7 +6,7 @@
 
 # Installation
 
-```
+
 
 - `pkg update`
 
@@ -32,16 +32,16 @@
 
 - `git clone https://github.com/MrK4US4R/CRACK_PRO_FREE`
 
-```
+
 
 # Run Script
 
-```
+
 
 - `cd CRACK_PRO_FREE`
 
 - `python CRACK_PRO_FREE.py`
 
-```
+
 
 
