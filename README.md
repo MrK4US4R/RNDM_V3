@@ -40,7 +40,7 @@
 
 - `cd RNDM_V3`
 
-- `python FREE.py`
+- `python Free.py`
 
 
 
