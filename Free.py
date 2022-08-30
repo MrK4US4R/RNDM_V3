@@ -18,7 +18,7 @@ if bit == "64bit":
 
         Main()
 
-if bit == "64bit":
+if bit == "32bit":
         from RENDOM_32 import Main
 
         Main()
