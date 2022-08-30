@@ -18,6 +18,8 @@ if bit == "64bit":
 
         Main()
 
-else:
+if bit == "64bit":
+        from RENDOM_32 import Main
 
-            exit('\033[1;31m[×] WAIT KOREN SIR 32 BIT SOKALE UPLOAD HOBE')
+        Main()
+
