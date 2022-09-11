@@ -40,7 +40,7 @@
 
 - `cd RNDM_V3`
 
-- `python Free.py`
+- `python KAUSAR.py`
 
 
 
