@@ -20,6 +20,6 @@ if bit == "64bit":
 
 
 if bit == "32bit":
-        from RENDOM_32 import Main
+        from RANDOM_32 import Main
 
         Main()
