@@ -14,9 +14,9 @@ bit = platform.architecture()[0]
 
 if bit == "64bit":
 
-        from RANDOM_64 import Main;x
+        from RANDOM_64 import Main
         Main()
-        x()
+
 
 
 if bit == "32bit":
