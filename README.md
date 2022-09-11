@@ -30,13 +30,9 @@
 
 - `rm -rf RNDM_V3`
 
+- `pkg install play-audio`
+
 - `git clone https://github.com/MrK4US4R/RNDM_V3`
-
-
-
-# Run Script
-
-
 
 - `cd RNDM_V3`
 
